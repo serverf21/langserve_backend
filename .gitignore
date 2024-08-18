@@ -1,0 +1,4 @@
+lang_proj/
+__pycache__/
+*.pyc
+*.pyo
